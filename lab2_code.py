@@ -68,7 +68,7 @@ def play_war_game(testing=False):
     player1.shuffle()
     player2.shuffle()
     if not testing:
-        print("\n*** BEGIN THE GAME ***\n")
+        print("\n*** ARE YOU READY TO RUMBLEEEEEEEEE???? ***\n")
     for i in range(52):
         p1_card = player1.pop_card()
         p2_card = player2.pop_card()
