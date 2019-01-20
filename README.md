@@ -23,4 +23,5 @@ This program defines a function play_war_game that takes one optional input of t
 9. the program prints which user won and the score, or prints that it is a tie if the score is the same
 
 ## Program
-The play_war_game function is invoked, and then the program prints which player has won and the final scores for each player.
+1. the play_war_game function is invoked
+2. the program prints which player has won and the final scores for each player
